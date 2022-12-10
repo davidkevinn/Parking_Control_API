@@ -6,4 +6,4 @@ This API can be easily integrated into an application that manages parking lots,
 
 
 
-Esse projeto tem por objetivo fixar o conhecimento das ferrramentas do ecosistema SpringBoot, sendo a consolidação dos estudos.
+This project aims to establish knowledge of the tools of the SpringBoot ecosystem, with the consolidation of studies.
